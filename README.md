@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+B.Tech ICT(Information communication technology) Student at Marwadi University (3rd Year)|Rajkot,Gujrat.
+
+###Skills :-
+
+Java|C|C++|Python
+HTML|CSS|JavaScript
+Flutter
+Reactjs
+App Developement | Web Developement | Problem Solving
+
+###About Me :-
+
+I am Solanki Aniket.
