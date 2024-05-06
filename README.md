@@ -24,7 +24,7 @@ Flutter|
 Reactjs|
 App Developement | Web Developement | Problem Solving 
 
-💬 Ask me about ...
+About me:-
 
 I am Solanki Aniket. I am a Software Developer.My main areas of techonologies includes in above skills.and always eager learn new things and technologies.
 
