@@ -22,8 +22,13 @@ Java|C|C++|Python,
 HTML|CSS|JavaScript,
 Flutter,
 Reactjs,
-App Developement | Web Developement | Problem Solving
+App Developement | Web Developement | Problem Solving 
 
-About Me :-
+💬 Ask me about ...
 
-I am Solanki Aniket.
+I am Solanki Aniket. I am a Software Developer.My main areas of techonologies includes in above skills.and always eager learn new things and technologies.
+
+📫 How to reach me:-
+
+Email :- aniket.solanki.9054@gmail.com
+Linkdin :- https://www.linkedin.com/in/aniket-solanki-a4bb26222
