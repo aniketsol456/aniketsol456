@@ -18,10 +18,10 @@ B.Tech ICT(Information communication technology) Student at Marwadi University (
 
 Skills :-
 
-Java|C|C++|Python,
-HTML|CSS|JavaScript,
-Flutter,
-Reactjs,
+Java|C|C++|Python|
+HTML|CSS|JavaScript|
+Flutter|
+Reactjs|
 App Developement | Web Developement | Problem Solving 
 
 💬 Ask me about ...
