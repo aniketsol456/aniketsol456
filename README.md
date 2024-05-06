@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-B.Tech ICT(Information communication technology) Student at Marwadi University (3rd Year)|Rajkot,Gujrat.
+B.Tech ICT(Information communication technology) Student at Marwadi University (3rd Year) | Rajkot,Gujrat.
 
 Skills :-
 
@@ -26,7 +26,7 @@ Java | C | C++ | Python |
 
 About me:-
 
-I am Solanki Aniket. I am a Software Developer.My main areas of techonologies includes in above skills.and always eager learn new things and technologies.
+I am Solanki Aniket. I am a Software Developer. My main areas of techonologies includes in above skills. Always eager learn new things and technologies.
 
 📫 How to reach me:-
 
