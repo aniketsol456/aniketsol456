@@ -18,7 +18,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,js,flutter,dart,firebase,github,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,flutter,dart,firebase,github,&perline=5)](https://skillicons.dev)
 
 ![Aniket Solanki's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniketsol456&show_icons=true&theme=dark)
 
