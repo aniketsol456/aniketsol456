@@ -21,7 +21,7 @@ Skills :-
 Java | C | C++ | Python |
  HTML | CSS | JavaScript |
  Flutter |
- Reactjs |
+ Reactjs | AI/ML |
  App Developement | Web Developement | Problem Solving 
 
 About me:-
