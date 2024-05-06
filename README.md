@@ -6,21 +6,24 @@
 - 📫 How to reach me: aniket.solanki.9054@gmail.com
 - 😄 Pronouns: He/him
 
-B.Tech ICT(Information communication technology) Student at Marwadi University (3rd Year) | Rajkot,Gujrat.
+  
+### Connect with me:
+<div id="badges">
+  <a href="https://github.com/aniketsol456">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+    <a href="https://www.linkedin.com/in/aniket-solanki-a4bb26222/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
-Skills :-
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,js,flutter,dart,firebase,github,xd&perline=5)](https://skillicons.dev)
 
-Java | C | C++ | Python |
- HTML | CSS | JavaScript |
- Flutter |
- Reactjs | AI/ML |
- App Developement | Web Developement | Problem Solving 
+![Aniket Solanki's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniketsol456&show_icons=true&theme=dark)
 
-About me:-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsol456&theme=dark)
 
-I am Solanki Aniket. I am a Software Developer. My main areas of techonologies includes in above skills. Always eager learn new things and technologies.
 
-📫 How to reach me:-
-
-Email :- aniket.solanki.9054@gmail.com
-Linkdin :- https://www.linkedin.com/in/aniket-solanki-a4bb26222
+<br>
+⭐️ From [Aniket Solanki](https://github.com/aniketsol456)
