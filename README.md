@@ -29,5 +29,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsol456&theme=dark)
 
 
+<p align = "center">
+  
+[![Aniket Solanki's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aniketsol456&bg_color=000000&color=fa7900&line=fb8c1d&point=fb3b02&area=true&hide_border=true)]
+</p>
+
+
 <br>
 ⭐️ From [Aniket Solanki](https://github.com/aniketsol456)
