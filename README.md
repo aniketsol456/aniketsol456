@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on MERN stack
 - 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Flutter
+- 💬 Ask me anything about Reactjs,Java
 - 📫 How to reach me: aniket.solanki.9054@gmail.com
 - 😄 Pronouns: He/him
 
