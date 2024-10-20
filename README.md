@@ -1,6 +1,6 @@
 <h1 align = "center">Heyy👋,I am Aniket Solanki.</h1>
 
-- 🔭 I’m currently working on Flutter
+- 🔭 I’m currently working on MERN stack
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Flutter
 - 📫 How to reach me: aniket.solanki.9054@gmail.com
