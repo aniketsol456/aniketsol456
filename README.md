@@ -18,6 +18,9 @@
   <a href="https://www.hackerrank.com/profile/aniket_solanki_2">
     <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
   </a>
+  <a href="https://www.codechef.com/users/aniket_110">
+    <img src="https://img.shields.io/badge/CodeChef?style=for-the-badge&logo=hackerrank&logoColor=white" alt="CodeChef Badge"/>
+  </a>
 
 </div>
 
